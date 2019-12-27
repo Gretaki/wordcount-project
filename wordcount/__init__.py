@@ -1,0 +1,1 @@
+#C:\Users\Administrator\Desktop\Django\wordcount-project>python manage.py runserver
